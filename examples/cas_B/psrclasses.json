@@ -1,0 +1,23 @@
+{
+  "fuels": [
+    {
+      "name": "GAS",
+      "price": 7.2,
+      "unit": "USD/MMBtu"
+    },
+    {
+      "name": "DIESEL",
+      "price": 18.0,
+      "unit": "USD/MMBtu"
+    },
+    {
+      "name": "HYDROGENE",
+      "price": 25.0,
+      "unit": "USD/MMBtu"
+    }
+  ],
+  "study": {
+    "currency": "USD",
+    "discount_rate": 0.1
+  }
+}

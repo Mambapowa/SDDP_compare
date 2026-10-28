@@ -1,0 +1,18 @@
+{
+  "fuels": [
+    {
+      "name": "GAS",
+      "price": 6.5,
+      "unit": "USD/MMBtu"
+    },
+    {
+      "name": "DIESEL",
+      "price": 18.0,
+      "unit": "USD/MMBtu"
+    }
+  ],
+  "study": {
+    "currency": "USD",
+    "discount_rate": 0.1
+  }
+}

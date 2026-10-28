@@ -1,0 +1,9 @@
+SDDP - Parametros de ejecucion
+Tipo de estudio ........................ 1
+Ano inicial ............................ 2025
+Numero de etapas ....................... 24
+Numero de series forward ............... 100
+Numero de series backward .............. 20
+Tasa de descuento (%) .................. 10.00
+Numero maximo de iteraciones ........... 10
+Tolerancia de convergencia ............. 0.01
